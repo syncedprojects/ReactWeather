@@ -1,0 +1,33 @@
+#page-title {
+    margin: 20px 0;
+}
+
+#weather-search-form {
+    position: relative;
+}
+
+#countryCode-div,
+#cityName-div {
+    margin-right: 10px;
+}
+
+#weather-info-list li {
+    margin-bottom: 20px;
+}
+
+.dayName-title {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.day-weather .card-body {
+    padding: 5px 20px;
+}
+
+.day-weather .card-body img {
+    margin: 0 auto;
+}
+
+.day-weather .list-inline-item {
+    margin-right: 0 !important;
+}
