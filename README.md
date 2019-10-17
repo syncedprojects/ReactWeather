@@ -9,8 +9,8 @@
 npm install
 
 Чтобы скомпилировать наберите в командной строке в зависимости от типа сборки:  
-webpack --mode=development (режим разработки)
-или
+webpack --mode=development (режим разработки)  
+или  
 webpack --mode=production (режим внедрения)
 
 ## Лицензия
